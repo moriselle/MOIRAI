@@ -65,5 +65,5 @@
 ## 🤝 기여자 
 <a href="https://github.com/youth5427/GPT_test/graphs/contributors">
   
- &nbsp;&nbsp;[박진용](https://github.com/Jiny0ng)&nbsp;&nbsp;&nbsp;&nbsp;[유수현](https://github.com/youth5427)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이기백](https://github.com/lgb201020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[임정민](https://github.com/JeongMinIsBest)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;[박진용](https://github.com/Jiny0ng)&nbsp;&nbsp;&nbsp;&nbsp;[유수현](https://github.com/youth5427)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이기백](https://github.com/lgb201020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[임정민](https://github.com/moriselle)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
