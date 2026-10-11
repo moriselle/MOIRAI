@@ -69,5 +69,5 @@ Through AI-generated problems, users can repeatedly apply learned concepts, vali
 [Jinyong Park](https://github.com/Jiny0ng) &nbsp;&nbsp;
 [Suhyeon Yoo](https://github.com/youth5427) &nbsp;&nbsp;
 [Gibaek Lee](https://github.com/lgb201020) &nbsp;&nbsp;
-[Jeongmin Lim](https://github.com/JeongMinIsBest)
+[Jeongmin Lim](https://github.com/moriselle)
 <br/>
